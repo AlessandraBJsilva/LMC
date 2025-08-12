@@ -1,0 +1,2 @@
+# LMC
+Lógica Matemática computacional
